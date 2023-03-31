@@ -145,7 +145,9 @@ def find_likeminded_villagers(filename, villager_name):
     Arguments:
         - filename (str): the path to a data file
         - villager_name (str): a villager's name
-    
+    Arguments:
+        - filename (str): the path to a data file
+        - villager_name (str): a villager's name
     Return:
         - set[str]: a set of names
 
